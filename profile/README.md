@@ -1,5 +1,5 @@
-# Fairway Logic
+# Golf Rocket
 
-Golf software and services for golf courses and consumers.
+Tournament Management Software
 
-[fairwaylogic.com](https://fairwaylogic.com)
+[golfrocketsoftware.com](https://golfrocketsoftware.com)
